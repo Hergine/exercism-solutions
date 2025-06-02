@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hergi\\Exercism\\csharp\\interest-is-interesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F8E470-7B63-4CCC-2AB0-03E685D13C6B}|InterestIsInteresting.csproj|c:\\users\\hergi\\exercism\\csharp\\interest-is-interesting\\interestisinteresting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F8E470-7B63-4CCC-2AB0-03E685D13C6B}|InterestIsInteresting.csproj|solutionrelative:interestisinteresting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterestIsInteresting.cs",
+              "DocumentMoniker": "C:\\Users\\hergi\\Exercism\\csharp\\interest-is-interesting\\InterestIsInteresting.cs",
+              "RelativeDocumentMoniker": "InterestIsInteresting.cs",
+              "ToolTip": "C:\\Users\\hergi\\Exercism\\csharp\\interest-is-interesting\\InterestIsInteresting.cs",
+              "RelativeToolTip": "InterestIsInteresting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:59:29.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
