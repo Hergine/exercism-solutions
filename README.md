@@ -1,10 +1,10 @@
-# Exercism Practice Projects 🧠💻
+# Exercism Practice Projects 
 
 Welcome to my Exercism practice repository!
 
 This repo documents my ongoing journey to sharpen my programming and problem-solving skills using [Exercism.org](https://exercism.org/), an open-source platform that offers coding exercises and mentorship across many languages.
 
-## 🔍 Why Exercism?
+##  Why Exercism?
 
 Exercism provides bite-sized exercises that emphasize:
 - Clean code practices
@@ -14,11 +14,11 @@ Exercism provides bite-sized exercises that emphasize:
 
 I use these challenges to practice writing maintainable, efficient, and well-structured code — focusing not just on solutions, but on *how* I solve them.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 This repository includes exercises written in:
 
-- ✅ C# / .NET
+-  C# / .NET
 - [Add other languages if applicable]
 
 I use:
@@ -26,7 +26,7 @@ I use:
 - xUnit (for C# testing)
 - Git & GitHub for version control
 
-## 📁 Structure
+## Structure
 
 Each folder represents a separate exercise, with:
 - Solution code (`.cs`, `.fs`, etc.)
@@ -42,7 +42,7 @@ Each folder represents a separate exercise, with:
  ┃ ┣ 📜ReverseString.cs
  ┃ ┗ 📜ReverseStringTests.cs
 ...
-🧠 What I’m Practicing
+ What I’m Practicing
 	•	Writing clean, readable code
 	•	Breaking down problems efficiently
 	•	Using TDD to write safer, testable code
