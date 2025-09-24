@@ -130,3 +130,4 @@ C:\Users\hergi\Exercism\csharp\hyper-optimized-telemetry\obj\Debug\net9.0\refint
 C:\Users\hergi\Exercism\csharp\hyper-optimized-telemetry\obj\Debug\net9.0\HyperOptimizedTelemetry.pdb
 C:\Users\hergi\Exercism\csharp\hyper-optimized-telemetry\obj\Debug\net9.0\HyperOptimizedTelemetry.genruntimeconfig.cache
 C:\Users\hergi\Exercism\csharp\hyper-optimized-telemetry\obj\Debug\net9.0\ref\HyperOptimizedTelemetry.dll
+C:\Users\hergi\Exercism\csharp\hyper-optimized-telemetry\obj\Debug\net9.0\HyperOptimizedTelemetry.sourcelink.json
