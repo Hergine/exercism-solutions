@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hergi\\Exercism\\csharp\\lucians-luscious-lasagna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A9E55-7E11-416B-B225-660DA4D2C278}|LuciansLusciousLasagna.csproj|c:\\users\\hergi\\exercism\\csharp\\lucians-luscious-lasagna\\lucianslusciouslasagna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A9E55-7E11-416B-B225-660DA4D2C278}|LuciansLusciousLasagna.csproj|solutionrelative:lucianslusciouslasagna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A9E55-7E11-416B-B225-660DA4D2C278}|LuciansLusciousLasagna.csproj|c:\\users\\hergi\\exercism\\csharp\\lucians-luscious-lasagna\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FE2A9E55-7E11-416B-B225-660DA4D2C278}|LuciansLusciousLasagna.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LuciansLusciousLasagna.cs",
+              "DocumentMoniker": "C:\\Users\\hergi\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.cs",
+              "RelativeDocumentMoniker": "LuciansLusciousLasagna.cs",
+              "ToolTip": "C:\\Users\\hergi\\Exercism\\csharp\\lucians-luscious-lasagna\\LuciansLusciousLasagna.cs",
+              "RelativeToolTip": "LuciansLusciousLasagna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:31:31.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hergi\\Exercism\\csharp\\lucians-luscious-lasagna\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hergi\\Exercism\\csharp\\lucians-luscious-lasagna\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-25T03:24:43.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

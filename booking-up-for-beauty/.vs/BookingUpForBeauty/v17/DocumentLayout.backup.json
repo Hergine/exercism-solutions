@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hergi\\Exercism\\csharp\\booking-up-for-beauty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61025305-A24C-822B-844D-8FFD8EAC6B78}|BookingUpForBeauty.csproj|c:\\users\\hergi\\exercism\\csharp\\booking-up-for-beauty\\bookingupforbeauty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61025305-A24C-822B-844D-8FFD8EAC6B78}|BookingUpForBeauty.csproj|solutionrelative:bookingupforbeauty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingUpForBeauty.cs",
+              "DocumentMoniker": "C:\\Users\\hergi\\Exercism\\csharp\\booking-up-for-beauty\\BookingUpForBeauty.cs",
+              "RelativeDocumentMoniker": "BookingUpForBeauty.cs",
+              "ToolTip": "C:\\Users\\hergi\\Exercism\\csharp\\booking-up-for-beauty\\BookingUpForBeauty.cs",
+              "RelativeToolTip": "BookingUpForBeauty.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA8wC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:45:54.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

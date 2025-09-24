@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hergi\\Exercism\\csharp\\bird-watcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34163FB-2E55-EA8B-90BF-58574D167914}|BirdWatcher.csproj|c:\\users\\hergi\\exercism\\csharp\\bird-watcher\\birdwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34163FB-2E55-EA8B-90BF-58574D167914}|BirdWatcher.csproj|solutionrelative:birdwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirdWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\hergi\\Exercism\\csharp\\bird-watcher\\BirdWatcher.cs",
+              "RelativeDocumentMoniker": "BirdWatcher.cs",
+              "ToolTip": "C:\\Users\\hergi\\Exercism\\csharp\\bird-watcher\\BirdWatcher.cs",
+              "RelativeToolTip": "BirdWatcher.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:02:13.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
