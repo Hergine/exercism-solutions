@@ -27,34 +27,15 @@ public static class PlayAnalyzer
 
     public static string AnalyzeOffField(object report)
     {
-        if (report is int)
+        return report switch
         {
-            return $"There are {report} supporters at the match.";
-        }
-        else if (report is string)
-        {
-            return $"{report}";
-        }
-        else if (report is Incident)
-        {
-            Incident incident = (Incident)report;
-            return $"{incident.GetDescription()}";
-        }
-        else if (report is Injury)
-        {
-            Injury injury = (Injury)report;
-            return $"Oh no!{injury.GetDescription()} Medics are on the field.";
-        }
-        else if (report is Manager)
-        {
-            Manager manager = (Manager)report;
-            if (manager.Club is null)
-                return $"{manager.Name}";
-            return $"{manager.Name} ({manager.Club ?? null})";
-        }
-        else
-        {
-            return string.Empty;
-        }
+            int supporters => $"There are {supporters} supporters at the match.",
+            string message => message,
+            Injury injury => $"Oh no! {injury.GetDescription()} Medics are on the field.",
+            Incident incident => incident.GetDescription(),
+            Manager manager when manager.Club is null => manager.Name,
+            Manager manager => $"{manager.Name} ({manager.Club})",
+            _ => string.Empty
+        };
     }
 }
