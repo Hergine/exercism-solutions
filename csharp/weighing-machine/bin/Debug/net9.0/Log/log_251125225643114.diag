@@ -1,0 +1,15 @@
+2025-11-25T22:56:43.1311635+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.5.3+2a34431d753f39463aadf19674237f6c4e5b6865
+2025-11-25T22:56:43.1843942+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-11-25T22:56:43.1875522+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-11-25T22:56:43.1875668+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 22:56:43.056
+2025-11-25T22:56:43.1917050+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 11416
+2025-11-25T22:56:43.1917630+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.8
+2025-11-25T22:56:43.1917965+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.8\System.Private.CoreLib.dll
+2025-11-25T22:56:43.1918116+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-11-25T22:56:43.1918164+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\hergi\Exercism\csharp\weighing-machine\bin\Debug\net9.0\WeighingMachine.dll
+2025-11-25T22:56:43.1920030+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\hergi\Exercism\csharp\weighing-machine\bin\Debug\net9.0\Log --client-port 62811'
+2025-11-25T22:56:43.1955881+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-11-25T22:56:43.2276646+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-11-25T22:56:43.2520135+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-11-25T22:56:43.6596585+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '1.1.0' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2025-11-25T22:56:43.6717122+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v1.1.0+7ad077d852 (64-bit .NET 9.0.8)
