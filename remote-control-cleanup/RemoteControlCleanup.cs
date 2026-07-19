@@ -27,7 +27,7 @@ public class RemoteControlCar
     //Create a Telemetry class to handle Telemetry-related functionality
     public class CarTelemetry : ITelemetry
     {
-        //Passing a reference of the RemoteControlCar instance to the TelemetryClass 
+        //Passing a reference of the RemoteControlCar instance to the Telemetry class 
         private readonly RemoteControlCar remoteControlCar;
         public CarTelemetry(RemoteControlCar remoteControlCar)
         {
