@@ -1,0 +1,7 @@
+C:\Users\hergi\Exercism\csharp\remote-control-cleanup\obj\Debug\net9.0\RemoteControlCleanup.csproj.AssemblyReference.cache
+C:\Users\hergi\Exercism\csharp\remote-control-cleanup\obj\Debug\net9.0\RemoteControlCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hergi\Exercism\csharp\remote-control-cleanup\obj\Debug\net9.0\RemoteControlCleanup.AssemblyInfoInputs.cache
+C:\Users\hergi\Exercism\csharp\remote-control-cleanup\obj\Debug\net9.0\RemoteControlCleanup.AssemblyInfo.cs
+C:\Users\hergi\Exercism\csharp\remote-control-cleanup\obj\Debug\net9.0\RemoteControlCleanup.csproj.CoreCompileInputs.cache
+C:\Users\hergi\Exercism\csharp\remote-control-cleanup\obj\Debug\net9.0\RemoteControlCleanup.genautoregisteredextensionsinputcache.cache
+C:\Users\hergi\Exercism\csharp\remote-control-cleanup\obj\Debug\net9.0\AutoRegisteredExtensions.cs
