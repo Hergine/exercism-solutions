@@ -1,0 +1,15 @@
+2026-01-06T19:13:03.7268542+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.5.3+2a34431d753f39463aadf19674237f6c4e5b6865
+2026-01-06T19:13:03.7455305+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-01-06T19:13:03.7467915+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-01-06T19:13:03.7467950+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 19:13:03.697
+2026-01-06T19:13:03.7492948+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 24724
+2026-01-06T19:13:03.7493365+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.11
+2026-01-06T19:13:03.7493512+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.11\System.Private.CoreLib.dll
+2026-01-06T19:13:03.7493607+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-01-06T19:13:03.7493640+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\hergi\Exercism\csharp\orm-in-one-go\bin\Debug\net9.0\OrmInOneGo.dll
+2026-01-06T19:13:03.7494924+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\hergi\Exercism\csharp\orm-in-one-go\bin\Debug\net9.0\Log --client-port 60223'
+2026-01-06T19:13:03.7509723+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-01-06T19:13:03.7645540+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-01-06T19:13:03.7766093+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2026-01-06T19:13:03.9461066+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '1.1.0' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-01-06T19:13:03.9503782+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v1.1.0+7ad077d852 (64-bit .NET 9.0.11)

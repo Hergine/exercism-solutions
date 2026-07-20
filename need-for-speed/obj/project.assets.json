@@ -1457,11 +1457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hergi\\exercism\\csharp\\need-for-speed\\NeedForSpeed.csproj",
+      "projectUniqueName": "C:\\Users\\hergi\\Exercism\\csharp\\need-for-speed\\NeedForSpeed.csproj",
       "projectName": "NeedForSpeed",
-      "projectPath": "C:\\Users\\hergi\\exercism\\csharp\\need-for-speed\\NeedForSpeed.csproj",
+      "projectPath": "C:\\Users\\hergi\\Exercism\\csharp\\need-for-speed\\NeedForSpeed.csproj",
       "packagesPath": "C:\\Users\\hergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hergi\\exercism\\csharp\\need-for-speed\\obj\\",
+      "outputPath": "C:\\Users\\hergi\\Exercism\\csharp\\need-for-speed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1498,7 +1498,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -1537,7 +1537,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

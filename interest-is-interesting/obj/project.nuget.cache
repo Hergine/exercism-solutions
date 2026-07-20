@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3hAh7hGiAs=",
+  "dgSpecHash": "EUlFngrl1G0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hergi\\exercism\\csharp\\interest-is-interesting\\InterestIsInteresting.csproj",
+  "projectFilePath": "C:\\Users\\hergi\\Exercism\\csharp\\interest-is-interesting\\InterestIsInteresting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hergi\\.nuget\\packages\\exercism.tests.xunit.v3\\0.1.0-beta1\\exercism.tests.xunit.v3.0.1.0-beta1.nupkg.sha512",
     "C:\\Users\\hergi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -1,0 +1,15 @@
+2025-12-23T08:46:43.8233324+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.5.3+2a34431d753f39463aadf19674237f6c4e5b6865
+2025-12-23T08:46:43.8457908+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-12-23T08:46:43.8475736+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-12-23T08:46:43.8475899+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 08:46:43.785
+2025-12-23T08:46:43.8499162+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 19896
+2025-12-23T08:46:43.8500033+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.11
+2025-12-23T08:46:43.8500312+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.11\System.Private.CoreLib.dll
+2025-12-23T08:46:43.8500466+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-12-23T08:46:43.8500508+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\hergi\Exercism\csharp\wizards-and-warriors-2\bin\Debug\net9.0\WizardsAndWarriors2.dll
+2025-12-23T08:46:43.8502752+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\hergi\Exercism\csharp\wizards-and-warriors-2\bin\Debug\net9.0\Log --client-port 62494'
+2025-12-23T08:46:43.8527217+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-12-23T08:46:43.8799745+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-12-23T08:46:43.8961782+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-12-23T08:46:44.4623030+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '1.1.0' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2025-12-23T08:46:44.4672221+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v1.1.0+7ad077d852 (64-bit .NET 9.0.11)

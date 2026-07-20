@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Rnzn943mzg=",
+  "dgSpecHash": "A0OLmDOlmYM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hergi\\exercism\\csharp\\need-for-speed\\NeedForSpeed.csproj",
+  "projectFilePath": "C:\\Users\\hergi\\Exercism\\csharp\\need-for-speed\\NeedForSpeed.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hergi\\.nuget\\packages\\exercism.tests.xunit.v3\\0.1.0-beta1\\exercism.tests.xunit.v3.0.1.0-beta1.nupkg.sha512",
     "C:\\Users\\hergi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
