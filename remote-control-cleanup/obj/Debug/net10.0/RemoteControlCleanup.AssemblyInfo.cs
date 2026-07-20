@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoteControlCleanup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf7b23624c38b616493b1123818b96a80f01a5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a06ce38d8ea0800c04e7ae893ca28128e7d6ef64")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoteControlCleanup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoteControlCleanup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
