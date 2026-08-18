@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RemoteControlCleanup")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HighSchoolSweethearts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f8bf494098cf9396f417f5769a2c2963e9476bf")]
-[assembly: System.Reflection.AssemblyProductAttribute("RemoteControlCleanup")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RemoteControlCleanup")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8e20f6f90eded6d1e40bc5f657bd841e6a751a7")]
+[assembly: System.Reflection.AssemblyProductAttribute("HighSchoolSweethearts")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HighSchoolSweethearts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyMetadata("Microsoft.Testing.Platform.Application", "true")]
 

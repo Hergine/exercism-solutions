@@ -1,4 +1,4 @@
-# Exercism Solutions
+# Exercism Solutions 
 
 This repository contains my solutions to [Exercism](https://exercism.org/) coding exercises. I use this space to:
 
